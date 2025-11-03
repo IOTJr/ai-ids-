@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Large Data Files (CSVs)
+*.csv
+
+# Trained Model Files
+*.joblib
+
+# GeoIP Database
+*.mmdb
+
+# Log files
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
